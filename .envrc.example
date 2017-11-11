@@ -1,0 +1,2 @@
+export VISION_PROJECT=project-id
+export VISION_KEYFILE=keyfile.json
